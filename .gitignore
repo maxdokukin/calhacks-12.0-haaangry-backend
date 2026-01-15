@@ -2,3 +2,4 @@ data/downloads/
 .env
 .DS_Store
 .idea/
+.venv/
